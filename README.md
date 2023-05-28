@@ -1,5 +1,5 @@
 # VideoResolutionEnhancer_Vriddhi
-Deep learning approach for restoring and enhancing video quality using pre-trained ESRGAN model
+Deep learning approach for restoring and enhancing video quality using pre-trained ESRGAN model.<br>
 GUI (Page-1)
 ![image](https://github.com/tanishq2910/VideoResolutionEnhancer_Vriddhi/assets/108173516/9a78b600-8818-447c-96df-eb79373c9d2f)
 (Page-2)
